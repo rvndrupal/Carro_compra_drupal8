@@ -164,3 +164,13 @@ drupal.vertical-tabs:
     - core/jquery.once
     - core/drupal.form
     - core/matchmedia
+
+
+
+estilos:
+  version: 1.x
+  css:
+    theme:
+      css/estilos.css: {}
+  js:
+    js/cuddly-slider.js: {}
